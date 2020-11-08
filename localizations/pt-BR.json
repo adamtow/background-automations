@@ -1,5 +1,5 @@
 {
-	"en-US": {
+	"pt-BR": {
 		"alert_ipad_power": "iPadOS only supports the Do Not Disturb trigger method since it lacks Low Power Mode support.",
 		"alert_ipad_power_title": "Cannot Start Background Automations",
 		"alert_no_action": "An action must be defined in order for start Background Automations. To resolve, follow these steps:\n\n1. Tap OK.\n\n2. Tap Set Action.\n\n3. Choose a shortcut, deck, or card to run.\n\n4. Tap Start Background Automations.",
@@ -10,6 +10,8 @@
 		"label_method_dnd": "💤 Trigger Method: Do Not Disturb",
 		"label_method_power": "🔋Trigger Method: Low Power Mode",
 		"label_seconds": "seconds",
+		"language_key": "pt-BR",
+		"language_name": "Portuguese",
 		"menu_action": "⚡️ Set Action",
 		"menu_action_test": "Test Action",
 		"menu_apps": "Get Apps and Shortcuts…",
